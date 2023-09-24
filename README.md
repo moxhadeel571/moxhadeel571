@@ -9,8 +9,6 @@
 
 - 📫 You can get in touch with me via email: **muhammedshadeel571@gmail.com**.
 
-- 📄 Learn more about my professional journey on [Google Drive](https://drive.google.com/drive/u/0/my-drive).
-
 - ⚡ Fun fact: **I believe in evening the odds and follow a path of dedication and continuous skill improvement**.
 
 <h3 align="left">Connect with me:</h3>
