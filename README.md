@@ -47,7 +47,7 @@
 
 I'm a Full Stack Developer with a strong passion for Java and Web Development. I thrive on tackling challenging problems and creating efficient, user-friendly software solutions. Here are some more details about me:
 
-- 💼 Currently working at Smart Internz as Full Stack Developer
+- 💼 Currently working at Smart Internz as Full Stack Developer Intern
 - 🎓 Graduated from Osmania University with a degree in Computer Science
 - 🌐 Active contributor to open-source projects
 - 📚 Continuous learner and always eager to explore new technologies
